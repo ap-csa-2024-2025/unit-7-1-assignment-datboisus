@@ -8,9 +8,18 @@ public class Main
     Scanner sc = new Scanner(System.in);
     String input = "";
 
+    ArrayList<String> lists = new ArrayList<String>();
+    list.add("phone");
+    list.add("computer");
+    list.add("laptop");
+    list.add("television");
+    list.add("newspaper");
+    lists size(ArrayList);
+  
+
     while (!input.equals("STOP"))
     {
-      System.out.println("infinite loop! replace with your code");
+      System.out.println(lists);
     }
   }
 }
